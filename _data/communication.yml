@@ -145,13 +145,13 @@ websites:
       tfa: No
       facebook: line.worldwide
 
-    - name: MailChimp
+    - name: Mailchimp
       url: https://mailchimp.com/
       img: mailchimp.png
       tfa: Yes
       sms: Yes
       software: Yes
-      doc: https://kb.mailchimp.com/accounts/login/set-up-a-two-factor-authentication-app-at-login
+      doc: https://mailchimp.com/help/set-up-a-two-factor-authentication-app-at-login/
 
     - name: Mailgun
       url: https://www.mailgun.com
